@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TZ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5EF97D-CA74-49CE-877D-87903A1BB0A2}|Krista\\Krista.csproj|c:\\users\\hp\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\tz\\krista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5EF97D-CA74-49CE-877D-87903A1BB0A2}|Krista\\Krista.csproj|solutionrelative:krista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5EF97D-CA74-49CE-877D-87903A1BB0A2}|Krista\\Krista.csproj|c:\\users\\hp\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\tz\\krista\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5EF97D-CA74-49CE-877D-87903A1BB0A2}|Krista\\Krista.csproj|solutionrelative:krista\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5EF97D-CA74-49CE-877D-87903A1BB0A2}|Krista\\Krista.csproj|c:\\users\\hp\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\tz\\krista\\aplicationcontexdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5EF97D-CA74-49CE-877D-87903A1BB0A2}|Krista\\Krista.csproj|solutionrelative:krista\\aplicationcontexdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 321,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AplicationContexDB.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TZ\\Krista\\AplicationContexDB.cs",
+              "RelativeDocumentMoniker": "Krista\\AplicationContexDB.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TZ\\Krista\\AplicationContexDB.cs",
+              "RelativeToolTip": "Krista\\AplicationContexDB.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:06:29.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TZ\\Krista\\Data.cs",
+              "RelativeDocumentMoniker": "Krista\\Data.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TZ\\Krista\\Data.cs",
+              "RelativeToolTip": "Krista\\Data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:05:22.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TZ\\Krista\\Program.cs",
+              "RelativeDocumentMoniker": "Krista\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TZ\\Krista\\Program.cs",
+              "RelativeToolTip": "Krista\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwEEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:27:40.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,708 @@
+{
+ "id": "5752399",
+  "info": {
+    "regNum": "LЭ923",
+    "code": "000LЭ923",
+    "divisionParentName": "ПУБЛИЧНО-ПРАВОВАЯ КОМПАНИЯ \"РОСКАДАСТР\"",
+    "divisionParentCode": "000НЖЧ92",
+    "ogrn": "1227700700633",
+    "fullName": "ФИЛИАЛ ПУБЛИЧНО-ПРАВОВОЙ КОМПАНИИ \"РОСКАДАСТР\" \"ПРИМОРСКОЕ АЭРОГЕОДЕЗИЧЕСКОЕ ПРЕДПРИЯТИЕ\" (ФИЛИАЛ ППК \"РОСКАДАСТР\" \"ПРИМОРСКОЕ АГП\")",
+    "shortName": "ФИЛИАЛ ППК \"РОСКАДАСТР\" \"ПРИМОРСКОЕ АГП\"",
+    "inn": "7708410783",
+    "kpp": "250243001",
+    "regDate": "2023-12-12 00:00:00.0",
+    "okopfName": "Филиалы юридических лиц",
+    "okopfCode": "30002",
+    "okfsName": "Федеральная собственность",
+    "okfsCode": "12",
+    "postIndex": "692760",
+    "cityType": "",
+    "cityName": "",
+    "streetType": "УЛ",
+    "streetName": "40 ЛЕТ ОКТЯБРЯ",
+    "house": "Д. 40",
+    "oktmoName": "г Артем",
+    "oktmoCode": "05705000001",
+    "orfkName": "Управление Федерального казначейства по Приморскому краю",
+    "orfkCode": "2000",
+    "oksmName": "",
+    "oksmCode": "",
+    "location": "",
+    "kbkName": "",
+    "kbkCode": "",
+    "okoguName": "",
+    "okoguCode": "",
+    "okpoCode": "82747510",
+    "orgTypeName": "Государственная корпорация, государственная компания",
+    "orgTypeCode": "09",
+    "establishmentKindName": "",
+    "establishmentKindCode": "",
+    "legalPersonKindName": "",
+    "legalPersonKindCode": "",
+    "ougvName": "",
+    "ougvCode": "",
+    "uoName": "Федеральная служба государственной регистрации, кадастра и картографии",
+    "uoCode": "00100321",
+    "creatorKindName": "",
+    "creatorKindCode": "",
+    "creatorPlaceName": "",
+    "creatorPlaceCode": "",
+    "founderKindName": "Российская Федерация",
+    "founderKindCode": "10",
+    "founderPlaceName": "Российская Федерация",
+    "founderPlaceCode": "00000000",
+    "budgetLvlName": "",
+    "budgetLvlCode": "",
+    "budgetName": "",
+    "budgetCode": "",
+    "statusCode": "1",
+    "statusName": "действующая",
+    "regionType": "",
+    "regionName": "ПРИМОРСКИЙ КРАЙ",
+    "isOGV": "0",
+    "isObosob": "1",
+    "orgStatus": "1",
+    "recordNum": "000000000900LЭ923191",
+    "parentCode": "000НЖЧ92",
+    "parentName": "ПУБЛИЧНО-ПРАВОВАЯ КОМПАНИЯ \"РОСКАДАСТР\"",
+    "okatoCode": "",
+    "okatoName": "",
+    "guid": "3A2A6D9B-19E8-4973-82B7-0444861AC050",
+    "status": "1",
+    "controlNum": "0",
+    "bidNum": "1-76-25-000/00008",
+    "firstRegDate": "2024-01-19 18:31:11.0",
+    "firstRegGuid": "5bb3220c-8e38-42b1-bdff-bd462b9f409b",
+    "lastRegGuid": "95c96562-38fe-4e3b-85e5-0f23154d53c0",
+    "lastRegDate": "2024-09-26 17:20:53.0",
+    "lastRegNum": "1-76-25-000/03592",
+    "updateReason": "D",
+    "updateNum": "1",
+    "inclusionDate": "2024-01-25 09:38:34.0",
+    "exclusionDate": "",
+    "pubpCode": "",
+    "rubpCode": "",
+    "nubpCode": "",
+    "cpzCode": "",
+    "pgmyCode": "",
+    "firmName": "",
+    "kofkCode": "",
+    "nameDocs": "",
+    "accMgmt": "1",
+    "naibznachuch": "",
+    "regionCode": "25",
+    "areaCode": "",
+    "areaType": "2",
+    "areaName": "АРТЕМОВСКИЙ",
+    "cityCode": "",
+    "localCode": "",
+    "localName": "АРТЕМ",
+    "localType": "Г",
+    "streetCode": "",
+    "building": "",
+    "apartment": "",
+    "reformationDocument": "",
+    "reformationDocumentNum": "",
+    "reformationDocumentDate": "",
+    "reformationName": "",
+    "reformationCode": "",
+    "reformationStartDate": "",
+    "reformationEndDate": "",
+    "dateUpdate": "2024-09-30 06:25:19.0",
+    "isExcluded": "0",
+    "isReorg": "0",
+    "startDate": "2024-09-30 06:24:04.0",
+    "endDate": "",
+    "loadDate": "2024-10-01 05:05:44.0",
+    "regionKladrCode": "2500000000000",
+    "egrulnotincluded": "false",
+    "parentrecordnum": "",
+    "planningstructuretype": "",
+    "planningstructurename": "",
+    "contourTypeCode": "O",
+    "specEventCode": "",
+    "speceventcodedop1": "",
+    "speceventcodedop2": "",
+    "speceventcodedop3": "",
+    "dsp": "0",
+    "ppotypecode": "10",
+    "ppotypename": "Российская Федерация",
+    "isUch": "",
+    "reforfkCode": "/epbs/registry/7710568760-TOFK/data?filtercode=2000&filterstatus=ACTIVE&"
+  },
+  "authorities": [],
+  "activities": [
+    {
+      "activityCode": "71.12.7",
+      "activityName": "Кадастровая деятельность",
+      "activityKind": "основной"
+    },
+    {
+      "activityCode": "69.20.2",
+      "activityName": "Деятельность по оказанию услуг в области бухгалтерского учета",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "70.10",
+      "activityName": "Деятельность головных офисов",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "43.12.1",
+      "activityName": "Расчистка территории строительной площадки",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "43.12.2",
+      "activityName": "Производство дренажных работ на сельскохозяйственных землях, землях лесных территорий, а также на строительных площадках",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "61.10.1",
+      "activityName": "Деятельность по предоставлению услуг телефонной связи",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "61.10.2",
+      "activityName": "Деятельность по предоставлению услуг по передаче данных для целей передачи голосовой информации (IР-телефония)",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "61.10.3",
+      "activityName": "Деятельность по предоставлению услуг по передаче данных и услуг доступа к информационно-коммуникационной сети Интернет",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "61.10.4",
+      "activityName": "Деятельность в области документальной электросвязи",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "61.10.9",
+      "activityName": "Деятельность в области связи на базе проводных технологий прочая",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "61.20.1",
+      "activityName": "Деятельность по предоставлению услуг подвижной связи для целей передачи голоса",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "61.20.2",
+      "activityName": "Деятельность по предоставлению услуг подвижной связи для целей передачи данных",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "61.20.3",
+      "activityName": "Деятельность по предоставлению услуг подвижной связи для доступа к информационно-коммуникационной сети Интернет",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "85.42",
+      "activityName": "Образование профессиональное дополнительное",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "71.12.2",
+      "activityName": "Деятельность заказчика-застройщика, генерального подрядчика",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "71.12.3",
+      "activityName": "Работы геолого-разведочные, геофизические и геохимические в области изучения недр и воспроизводства минерально-сырьевой базы",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "71.12.4",
+      "activityName": "Деятельность геодезическая и картографическая",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "73.11",
+      "activityName": "Деятельность рекламных агентств",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "43.12.3",
+      "activityName": "Производство земляных работ",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "43.12.4",
+      "activityName": "Подготовка участка к разработке и добыче полезных ископаемых, за исключением нефтяных и газовых участков",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "43.21",
+      "activityName": "Производство электромонтажных работ",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "70.22",
+      "activityName": "Консультирование по вопросам коммерческой деятельности и управления",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "53.20.39",
+      "activityName": "Деятельность курьерская прочая",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "74.90.92",
+      "activityName": "Деятельность по разработке информационных и телекоммуникационных систем, защищенных с использованием средств защиты информации",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "43.22",
+      "activityName": "Производство санитарно-технических работ, монтаж отопительных систем и систем кондиционирования воздуха",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "58.11",
+      "activityName": "Издание книг",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "71.12.6",
+      "activityName": "Деятельность в области технического регулирования, стандартизации, метрологии, аккредитации, каталогизации продукции",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "73.20.2",
+      "activityName": "Деятельность по изучению общественного мнения",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "43.29",
+      "activityName": "Производство прочих строительно-монтажных работ",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "52.29",
+      "activityName": "Деятельность вспомогательная прочая, связанная с перевозками",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "68.31.4",
+      "activityName": "Предоставление консультационных услуг по аренде недвижимого имущества за вознаграждение или на договорной основе",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "84.21",
+      "activityName": "Деятельность международная",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "85.30",
+      "activityName": "Обучение профессиональное",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "68.31.5",
+      "activityName": "Предоставление посреднических услуг при оценке недвижимого имущества за вознаграждение или на договорной основе",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "95.11",
+      "activityName": "Ремонт компьютеров и периферийного компьютерного оборудования",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "68.20.2",
+      "activityName": "Аренда и управление собственным или арендованным нежилым недвижимым имуществом",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "62.01",
+      "activityName": "Разработка компьютерного программного обеспечения",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "71.11.1",
+      "activityName": "Деятельность в области архитектуры, связанная с созданием архитектурного объекта",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "71.20.2",
+      "activityName": "Судебно-экспертная деятельность",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "71.20.4",
+      "activityName": "Испытания, исследования и анализ целостных механических и электрических систем, энергетическое обследование",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "71.20.62",
+      "activityName": "Экспертиза проектной документации и результатов инженерных изысканий негосударственная",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "71.20.7",
+      "activityName": "Деятельность по оценке условий труда",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "74.90",
+      "activityName": "Деятельность профессиональная, научная и техническая прочая, не включенная в другие группировки",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "74.90.2",
+      "activityName": "Деятельность, направленная на установление рыночной или иной стоимости (оценочная деятельность), кроме оценки, связанной с недвижимым имуществом или страхованием",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "74.90.99",
+      "activityName": "Деятельность в области защиты информации прочая",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "43.11",
+      "activityName": "Разборка и снос зданий",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "43.99",
+      "activityName": "Работы строительные специализированные прочие, не включенные в другие группировки",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "62.02",
+      "activityName": "Деятельность консультативная и работы в области компьютерных технологий",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "62.03",
+      "activityName": "Деятельность по управлению компьютерным оборудованием",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "85.42.9",
+      "activityName": "Деятельность по дополнительному профессиональному образованию прочая, не включенная в другие группировки",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "62.03.13",
+      "activityName": "Деятельность по сопровождению компьютерных систем",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "62.09",
+      "activityName": "Деятельность, связанная с использованием вычислительной техники и информационных технологий, прочая",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "71.12.9",
+      "activityName": "Землеустройство",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "71.11.2",
+      "activityName": "Деятельность по территориальному планированию и планировке территории",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "71.11.3",
+      "activityName": "Деятельность в области ландшафтной архитектуры и консультативные услуги в области архитектуры",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "68.31.1",
+      "activityName": "Предоставление посреднических услуг при купле-продаже недвижимого имущества за вознаграждение или на договорной основе",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "43.33",
+      "activityName": "Работы по устройству покрытий полов и облицовке стен",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "63.11",
+      "activityName": "Деятельность по обработке данных, предоставление услуг по размещению информации и связанная с этим деятельность",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "68.32.1",
+      "activityName": "Управление эксплуатацией жилого фонда за вознаграждение или на договорной основе",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "68.32.2",
+      "activityName": "Управление эксплуатацией нежилого фонда за вознаграждение или на договорной основе",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "68.32.3",
+      "activityName": "Деятельность по технической инвентаризации недвижимого имущества",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "71.20.8",
+      "activityName": "Сертификация продукции, услуг и организаций",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "71.20.9",
+      "activityName": "Деятельность по техническому контролю, испытаниям и анализу прочая",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "68.31.2",
+      "activityName": "Предоставление посреднических услуг по аренде недвижимого имущества за вознаграждение или на договорной основе",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "68.31.3",
+      "activityName": "Предоставление консультационных услуг при купле-продаже недвижимого имущества за вознаграждение или на договорной основе",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "43.34",
+      "activityName": "Производство малярных и стекольных работ",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "63.11.1",
+      "activityName": "Деятельность по созданию и использованию баз данных и информационных ресурсов",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "63.11.9",
+      "activityName": "Деятельность по предоставлению услуг по размещению информации прочая",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "63.91",
+      "activityName": "Деятельность информационных агентств",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "69.10",
+      "activityName": "Деятельность в области права",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "58.12",
+      "activityName": "Издание адресных справочников и списков адресатов",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "58.13",
+      "activityName": "Издание газет",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "63.99.1",
+      "activityName": "Деятельность по оказанию консультационных и информационных услуг",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "66.22",
+      "activityName": "Деятельность страховых агентов и брокеров",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "91.01",
+      "activityName": "Деятельность библиотек и архивов",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "58.14",
+      "activityName": "Издание журналов и периодических изданий",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "58.19",
+      "activityName": "Виды издательской деятельности прочие",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "58.29",
+      "activityName": "Издание прочих программных продуктов",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "85.41.9",
+      "activityName": "Образование дополнительное детей и взрослых, не включенное в другие группировки",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "71.12.1",
+      "activityName": "Деятельность, связанная с инженерно-техническим проектированием, управлением проектами строительства, выполнением строительного контроля и авторского надзора",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "71.12.11",
+      "activityName": "Разработка проектов тепло-, водо-, газоснабжения",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "71.12.12",
+      "activityName": "Разработка проектов промышленных процессов и производств, относящихся к электротехнике, электронной технике, горному делу, химической технологии, машиностроению, а также в области промышленного строительства, системотехники и техники безопасности",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "72.19",
+      "activityName": "Научные исследования и разработки в области естественных и технических наук прочие",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "43.31",
+      "activityName": "Производство штукатурных работ",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "82.11",
+      "activityName": "Деятельность административно-хозяйственная комплексная по обеспечению работы организации",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "82.19",
+      "activityName": "Деятельность по фотокопированию и подготовке документов и прочая специализированная вспомогательная деятельность по обеспечению деятельности офиса",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "43.32",
+      "activityName": "Работы столярные и плотничные",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "26.20.4",
+      "activityName": "Производство средств защиты информации, а также информационных и телекоммуникационных систем, защищенных с использованием средств защиты информации",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "41.20",
+      "activityName": "Строительство жилых и нежилых зданий",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "18.20",
+      "activityName": "Копирование записанных носителей информации",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "18.14",
+      "activityName": "Деятельность брошюровочно- переплетная и отделочная и сопутствующие услуги",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "18.11",
+      "activityName": "Печатание газет",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "18.12",
+      "activityName": "Прочие виды полиграфической деятельности",
+      "activityKind": "иной"
+    },
+    {
+      "activityCode": "18.13",
+      "activityName": "Изготовление печатных форм и подготовительная деятельность",
+      "activityKind": "иной"
+    }
+  ],
+  "heads": [
+    {
+      "fio": "Хлапов Владимир Николаевич",
+      "post": "Исполняющий обязанности исполнительного директора - директора филиала ППК \"Роскадастр\" \"Приморское аэрогеодезическое предприятие\"",
+      "docName": "приказ ППК \"Роскадастр\"",
+      "docNum": "212-лсф",
+      "docDate": "2024-08-14 00:00:00.0",
+      "headMain": "1"
+    }
+  ],
+  "successions": [
+    {
+      "parentName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСКАРТОГРАФИЯ\"",
+      "parentCode": "450Н9246",
+      "ogrn": "1127747019234",
+      "docname": "",
+      "numberdoc": "",
+      "documentdate": "",
+      "datasource": "1"
+    },
+    {
+      "parentName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЙ ГОСУДАРСТВЕННЫЙ ЦЕНТР ИНВЕНТАРИЗАЦИИ И УЧЕТА ОБЪЕКТОВ НЕДВИЖИМОСТИ - ФЕДЕРАЛЬНОЕ БЮРО ТЕХНИЧЕСКОЙ ИНВЕНТАРИЗАЦИИ\"",
+      "parentCode": "450Е4132",
+      "ogrn": "5167746159785",
+      "docname": "",
+      "numberdoc": "",
+      "documentdate": "",
+      "datasource": "1"
+    },
+    {
+      "parentName": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ФЕДЕРАЛЬНАЯ КАДАСТРОВАЯ ПАЛАТА ФЕДЕРАЛЬНОЙ СЛУЖБЫ ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТОГРАФИИ\"",
+      "parentCode": "001У9438",
+      "ogrn": "1027700485757",
+      "docname": "",
+      "numberdoc": "",
+      "documentdate": "",
+      "datasource": "1"
+    },
+    {
+      "parentName": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ФЕДЕРАЛЬНЫЙ НАУЧНО-ТЕХНИЧЕСКИЙ ЦЕНТР ГЕОДЕЗИИ, КАРТОГРАФИИ И ИНФРАСТРУКТУРЫ ПРОСТРАНСТВЕННЫХ ДАННЫХ\"",
+      "parentCode": "001Щ1333",
+      "ogrn": "1137746612068",
+      "docname": "",
+      "numberdoc": "",
+      "documentdate": "",
+      "datasource": "1"
+    }
+  ],
+  "facialAccounts": [
+    {
+      "kindName": "л/c для учета операций со средствами юридических лиц при казначейском сопровождении",
+      "kindCode": "71",
+      "num": "711LЭ923001",
+      "createDate": "2024-02-13 00:00:00.0",
+      "closeDate": "",
+      "status": "открыт",
+      "openUfkCode": "2000",
+      "openUfkName": "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОГО КАЗНАЧЕЙСТВА ПО ПРИМОРСКОМУ КРАЮ",
+      "openTofkName": "00142487",
+      "srvUfkCode": "2000",
+      "srvUfkName": "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОГО КАЗНАЧЕЙСТВА ПО ПРИМОРСКОМУ КРАЮ",
+      "accountorgcode": "",
+      "accountorgfullname": "",
+      "ppocode": "05705000",
+      "pponame": "Артемовский городской округ",
+      "refopenUfkCode": "/epbs/registry/7710568760-TOFK/data?filtercode=00142487&filterstatus=ACTIVE&",
+      "refsrvUfkCode": "/epbs/registry/7710568760-TOFK/data?filtercode=-&filterstatus=ACTIVE&"
+    }
+  ],
+  "foAccounts": [],
+  "participantPermissions": [],
+  "nonParticipantPermissions": [
+    {
+      "name": "НУБП",
+      "registryNum": "LЭ923",
+      "code": "303",
+      "startDate": "2024-09-26 00:00:00.0",
+      "endDate": "",
+      "authBudgName": "Федеральный бюджет",
+      "authBudgCode": "99010001",
+      "authPPOName": "",
+      "authPPOCode": "",
+      "authKBKGlavaName": "Федеральная служба государственной регистрации, кадастра и картографии",
+      "authKBKGlavaCode": "321"
+    }
+  ],
+  "procurementPermissions": [],
+  "contacts": [
+    {
+      "phone": "8 423 263 35 47",
+      "site": "http://ros.kadastr.ru",
+      "mail": "mail@primoragp.ru"
+    }
+  ],
+  "acceptAuths": [],
+  "transfauth": [],
+  "attachment": [],
+  "contracts": [],
+  "ubptransfauthbp": [],
+  "ubptransfauthbu": [],
+  "ubpfin": [],
+  "ksaccounts": []
+}
